@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+tqdm
+streamlit
+plotly
+pdfplumber
+cloudscraper 
+bs4

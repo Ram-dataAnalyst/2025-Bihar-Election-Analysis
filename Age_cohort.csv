@@ -1,0 +1,41 @@
+Cohorts,Registered Count,Who
+18-19,926422,Voters
+20-29,16061649,Voters
+30-39,20023414,Voters
+40-49 ,16364751,Voters
+50-59,11037804,Voters
+60-69,6943665,Voters
+70-79,3625208,Voters
+80+,1450416,Voters
+25-30,6,Candidates
+31-40,32,Candidates
+41-50,59,Candidates
+51-60,84,Candidates
+61-70,50,Candidates
+71-80,12,Candidates
+Male,214,Gender
+Female,29,Gender
+BJP,55,Re-Elected
+JD(U),35,Re-Elected
+RJD,11,Re-Elected
+Hindustani Awam Morcha (Secular),3,Re-Elected
+INC,2,Re-Elected
+CPI(ML)(L),2,Re-Elected
+All India Majlis-E-Ittehadul Muslimeen,1,Re-Elected
+Lok Janshakti Party (Ram Vilas),1,Re-Elected
+CPI(M),1,Re-Elected
+Literate,7,Education
+5th Pass,1,Education
+8th Pass,6,Education
+10th Pass,21,Education
+12th Pass,56,Education
+Graduate,59,Education
+Graduate Professional,20,Education
+Post Graduate,48,Education
+Doctorate,20,Education
+Diploma,5,Education
+Total Applied,5177,Affidavit 
+Accepted,3955,Affidavit 
+Rejected,1068,Affidavit 
+Withdrawn,154,Affidavit 
+Contesting,2616,Affidavit 
